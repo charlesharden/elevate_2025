@@ -1,4 +1,4 @@
-rule testruleelevate25 {
+rule test_rule_elevate25 {
   match:
     $login = {
       event_type = "login"
