@@ -1,0 +1,7 @@
+High_Profile_Users:
+  description: Users with elevated access.
+  resource_name: projects/secops-412817/locations/us/instances/3b9611431d694428b399e0358af10652/referenceLists/High_Profile_Users
+  revision_create_time: '2024-06-03T18:51:45.726191Z'
+  rule_associations_count: null
+  rules: null
+  syntax_type: REFERENCE_LIST_SYNTAX_TYPE_PLAIN_TEXT_STRING
